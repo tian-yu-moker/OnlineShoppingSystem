@@ -1,0 +1,38 @@
+#NPC1
+P: What are you doing here lady?
+N: I' m waiting for help...My ring has lost...Can you help me?
+S: Do you want to help her?
+P: Sure! My pleasure. How can I do for you?
+N: Can you bring my back?I lost it somewhere with water...
+P: Got it! I promise I will get it back!
+N: Thank you for your help!
+N: Did you bring my ring back?
+N: Oh, thanks! I'll give you something as my rewards! 
+N: Thanks a lot!
+@
+#NPC2
+P: What are you doing here gril?
+N: I' m waiting for a worriors... Are you?
+S: Are you a good person or not?
+P: Sure! I am handsome, brave and awesome.
+N: Can you find my toy back? I lost it some where near the bridge...
+P: Got it! I promise I will get it back!
+N: Thank you for your help!
+N: Did you bring my toy back?
+N: Oh, thanks! I'll give you something as my rewards! 
+N: Thanks a lot!
+@
+#NPC3
+P: Oh, what' wrong with you?
+N: I am the sprite of life...But the monsters stole my life core...
+N: And now I'm going to die...Can you help me?
+S: Do you want to help her?
+P: Of course! How can I do for you?
+N: Find my life core back...It is at somewhere with lots of trees...
+P: Got it! Just wait a moment.
+N: Thank you...
+N: Where is my life core...
+N: Oh, my god, thanks! I'll give you something as my rewards! 
+N: Thanks a lot! I'm alive!
+@
+

@@ -1,0 +1,6 @@
+1,Fabric Shoes,speed+5
+2,Moccasin,speed+15
+3,Magic Boots,speed+20 HP+20
+4,Silk Boots,speed+10 HP+20
+5,Thunder Boots,speed+20 HP+60
+6,God Boots,speed+10 HP+70

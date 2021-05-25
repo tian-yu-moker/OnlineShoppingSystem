@@ -1,0 +1,27 @@
+#NPC1
+P: What are you doing here lady?
+N: I have a mission, but the one who accepts it must be clever.
+N: So first you must answer a question.
+S: Calculate: Is 611 x 510 = 311,510?
+P: No, it is 311,610.
+N: Wow, you are clever! Can you find my umbrella?
+P: Got it! I promise I will get it back!
+N: Thank you for your help!
+N: Did you find my umbrella?
+N: Oh, thanks! Here are some money!
+N: Thanks a lot!
+@
+#NPC2
+P: What are you doing here lady?
+N: My counrty was destoryed by the monsters...
+N: And our country treasure, the ice blade was robbed...
+S: Do you want to help her?
+P: How can I do for you?
+N: Bring the blade back...And I will give you rewards..
+P: Roger that! Where can I find it?
+N: May be it is near the large sword...Thank you.
+N: Did you find ice blade?
+N: Oh, thanks! Here are some money!
+N: Thanks a lot! Wish you will sucess!
+@
+

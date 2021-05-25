@@ -1,0 +1,10 @@
+1,Conquer,attack+10
+2,Arbitrament,attack+20
+3,Iron Sword,attack+30
+4,Magic Wand,attack+30
+5,Glide,attack+40
+6,Coagulate frost,attack+45
+7,Purgatory,attack+50
+8,DragonSlayer,attack+55
+9,Trident,attack+60
+10,Anger Chop,attack+70

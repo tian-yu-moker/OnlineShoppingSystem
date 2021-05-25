@@ -1,0 +1,25 @@
+#NPC1
+P: Solider, why is this place so desolate?
+N: After the invasion, all the creatures here died.
+S: Help or not?
+P: How can I do for you?
+N:  Only by finding out an ancient artifact can we restore the original appearance of this place.
+P: Ok, I will have a try!
+N: Thanks!
+N: Did you find the ancient artifact?
+N: Oh, thanks! Here is the reward! 
+N: Thanks a lot!
+@
+#NPC2
+P: Solider, what are you doing?
+N: I am lost in the sand dune...
+S: Help or not?
+P: How can I do for you?
+N: The enemy hide the map. If you can find it, we will be able to leave here.
+P: Wait a second!
+N: Thanks a lot!
+N: Did you find the map?
+N: Oh, thanks! Here is reward!
+N: Let's fight with monters and leave there!
+@
+

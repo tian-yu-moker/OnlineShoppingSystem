@@ -1,0 +1,27 @@
+#NPC1
+P: What are you doing here lady?
+N: The monsters stole my treasure, and hide them somewhere...
+N: Can you find it back? I will give you some rewards...
+S: Do you want to help her?
+P: Sure! My pleasure. How can I do for you?
+N: May be it is in somewhere in the east... 
+P: Got it! I promise I will get it back!
+N: Thank you for your help!
+N: Where is my treasure..
+N: Oh, thanks! Here is your reward.
+N: Thanks a lot!
+@
+#NPC2
+P: Hey man, what are you doing?
+N: I'm here to waiting for the warriors.
+N: And he will save the world.
+S: Are you the warrrior who can save the world?
+P: I can save the world!
+N: You need to find my sword, and I will trust you..
+P: Got it! Just wait a monent!
+N: Ok, I'm here to wait you back...
+N: Have you finished my mission?
+N: Oh, you are the warrior! Here is some money!
+N: Come on, go to save the world!
+@
+

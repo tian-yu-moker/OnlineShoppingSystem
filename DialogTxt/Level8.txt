@@ -1,0 +1,25 @@
+#NPC1
+P: Solider, you are you doing?
+N: I'm wating for the reinforcements. Our key weapon has lost...
+S: Help or not?
+P: How can I do for you?
+N: The weapon is necessary, without it, our army cannot go on to fight with monsters.
+P: Ok, I will have a try!
+N: Thanks!
+N: Did you find our weapon?
+N: Oh, thanks! Here is the reward! 
+N: Thanks a lot!
+@
+#NPC2
+P: Solider, you are you doing?
+N: During fighting, I got injured...
+S: Help or not?
+P: How can I do for you?
+N: I remembered somewhere in the north has some herbs...
+P: Wait a second!
+N: Thanks a lot!
+N: Did you find the herb?
+N: Oh, I'm recovered! Thanks! Here is reward!
+N: Let's fight with monters!
+@
+

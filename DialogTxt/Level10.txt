@@ -1,0 +1,25 @@
+#NPC1
+P: Solider, what you are you doing?
+N: I was arrested by the enemy. 
+S: Help or not?
+P: How can I do for you?
+N: The key to unlock me is hide in some corner, save me, please!
+P: Ok, I will have a try!
+N: Thanks!
+N: Did you find the key?
+N: Oh, thanks! Here is the reward! 
+N: Thanks a lot!
+@
+#NPC2
+P: Solider, Victory is in sight! Is there anything else we need to do?
+N: We need to sabotage the enemy's next plan to prevent their coming back.
+S: Help or not?
+P: How can I do for you?
+N: The enemy hid their secret plans in a treasure chest. Can you find it and smash their plans?
+P: OK! I will try my best!
+N: Thanks a lot!
+N: Did you find their secret plans?
+N: Oh, The enemy has no way back, you are a real warrior! Thanks! Here is reward!
+N: Thank you! Go to save the world!
+@
+

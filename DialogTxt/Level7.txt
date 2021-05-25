@@ -1,0 +1,25 @@
+#NPC1
+P: Why you are standing here?
+N: I lost my sword...
+S: Help or not?
+P: How can I do for you?
+N: Please bring it back...I have lots of money!
+P: I will try my best!
+N: Thanks a lot!
+N: Did you find my sword?
+N: Oh, thank you! Here is the money.
+N: Thanks a lot!
+@
+#NPC2
+P: What are you doing?
+N: Could you help me to find my treasure...
+S: Help or not?
+P: How can I do for you?
+N: My treasure is hided near the river...But there are many monsters on the way..
+P: I will try my best!
+N: Thanks...
+N: Did you find my treasure?
+N: Oh, thanks! Here is the reward! 
+N: Thanks a lot!
+@
+

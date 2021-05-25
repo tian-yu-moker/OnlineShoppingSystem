@@ -1,0 +1,6 @@
+1,Cotton Garment,HP+20 MP+50
+2,Robe,HP+30 MP+30
+3,Light Armor,HP+40 MP+30
+4,Medium Armor,HP+50 MP+50
+5,Heavy Armor,HP+60 MP+80
+6,Ares Armor,HP+70 MP+50

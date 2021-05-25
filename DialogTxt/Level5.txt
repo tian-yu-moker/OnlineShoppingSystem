@@ -1,0 +1,25 @@
+#NPC1
+P: Hey, what are you doing?
+N: Could you help me to find my treasure...
+S: Do you want to help her?
+P: Got it! My pleasure!
+N: I remember I forget it somewhere in the north...
+P: Ok, just wait a second.
+N: Thank you for your help!
+N: Did you find my treasure?
+N: Oh, thanks! Here is the reward! 
+N: Thanks a lot!
+@
+#NPC2
+P: What are you doing?
+N: On Moon Island...The monster robbed my money...
+S: Do you want to help her?
+P: How can I do for you?
+N: Defeat the monsters...And find my money...
+P: Wow...I will try my best!
+N: Thank you very much!
+N: Did you defeat monsters and bring money back?
+N: Oh, thank you! I will share my money with you! 
+N: Thanks a lot!
+@
+
