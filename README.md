@@ -10,9 +10,9 @@ It is suitable for primary game developers (like me!) to study.
 ## Developers
 For the course "CNSCC.210 Group Project" at the University of Lancaster.  
 @ Team Composition:  
-Leader:  
+@ Leader:  
 Tian Yu  
-Members:  
+@ Members:  
 Zhang Yunqi  
 Xia Runze  
 Xiao Wenwei  
