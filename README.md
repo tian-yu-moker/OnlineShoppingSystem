@@ -1,23 +1,22 @@
-# WarriorsExpedition_Program
+# Warriors Expedition
 
-#### 介绍
-此仓库主要用于游戏人物动作以及人物间交互的开发
-成员：田宇、邢可、张蕴琦
+## Introduction
+The game is a pure Java developed 2.5D game, which is mainly based on JSFML. (Simple and fast media library for Java).  
+The instruction book can be seen in "Instruction Book.pdf" file, as listed in the repository. Or click here.  [Instruction Book.pdf](https://github.com/tian-yu-moker/Warriors-Expedition-2.5D-Java-developed-Game/files/6538730/Instruction.Book.pdf)
+  
+This is a group work, thanks my team members for their contribution of this game.  
+It is suitable for primary game developers (like me!) to study.
 
-
-#### 软件架构
-目前主要分为三个部分：Actor，Driver以及MainFrame
-接下来可能会进行部分的修改
-
-
-#### 主要任务记录
-
-1. 2020-04-05 将人物的主要行为完成，并整合
-
-
-#### 使用说明
-
-写代码之间一定要确保同步
-上传之后也要同步 git pull origin master***
-
-
+## Developers
+For the course "CNSCC.210 Group Project" at the University of Lancaster.  
+@ Team Composition:  
+Leader:  
+Tian Yu  
+Members:  
+Zhang Yunqi  
+Xia Runze  
+Xiao Wenwei  
+Xing Ke  
+Liu Jiayi  
+@ Time Period:  
+2019.10 ~ 2021.06  
