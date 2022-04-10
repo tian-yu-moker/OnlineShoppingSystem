@@ -8,7 +8,7 @@ This is a group work, thanks my team members for their contribution of this game
 It is suitable for primary game developers (like me!) to study.
 
 ## Developers
-For the course "CNSCC.210 Group Project" at the University of Lancaster.  
+For the course "CNSCC.210 Group Project" at the BJTU.
 @ Team Composition:  
 @ Leader:  
 Tian Yu  
